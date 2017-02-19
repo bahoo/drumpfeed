@@ -1,4 +1,4 @@
 # Drumpfeed
 
-- An RSS feed ofhttps://www.whitehouse.gov/blog
+- An RSS feed of https://www.whitehouse.gov/blog
 - Lives at https://drumpfeed.herokuapp.com
